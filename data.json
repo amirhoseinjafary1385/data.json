@@ -1,0 +1,16 @@
+{
+    "name": "Geminids",
+    "id": "GEM",
+    "number": 7,
+    "magnitude": 2.0,
+    "peak_date": "December 14",
+    "constellation": "Gemini",
+    "shower_class": "meteor shower",
+    "parent_body": "3200 Phaethon",
+    "activity_period": "December 4-17",
+    "zenith_hourly_rate": 120,
+    "velocity": 35,
+    "radiant": "07:30 +33",
+    "related_comets": ["3200 Phaethon"],
+    "is_active": true
+}
